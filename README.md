@@ -1,0 +1,1 @@
+# yapay_sinir_aglari-vize
